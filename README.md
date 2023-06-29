@@ -1,11 +1,10 @@
 # Customer Journey Map (Example)
 
 ![Map SVG](./Journey-Example.svg)
-![Map PDF](./Journey-Example.pdf)
-![Map PowerPoint](./Journey-Example.pptx)
-
-![Notes](./Journey-Example-Notes.pdf)
+> Notes covering specific available
+> PDF, PowerPoint versions available
 
 ## Instructions
 
-![Instructions](./Journey-Instructions.pdf)
+> See Journey Map instructions for guidance
+
